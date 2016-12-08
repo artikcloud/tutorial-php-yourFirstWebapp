@@ -4,7 +4,7 @@ session_start();
 require('ArtikCloudProxy.php');
 $proxy = new ArtikCloudProxy();
 $proxy->setAccessToken($_SESSION["access_token"]);
-$data ='{"stepCount":7994,"heartRate":100,"description":"Run","activity":2}'; // sami_gear_fit device
+$data ='{"stepCount":7994,"heartRate":100,"description":"Run","activity":2}'; // cloud.artik.example.activitytracker device type
 $payload = '{"sdid":"'.ArtikCloudProxy::DEVICE_ID.'", "data":'.$data.'}';
 $response = $proxy->sendMessage($payload);
 
