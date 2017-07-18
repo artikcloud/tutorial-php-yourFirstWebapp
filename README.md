@@ -1,3 +1,5 @@
+*Note: A newer PHP sample is available [here](https://github.com/artikcloud/sample-webapp-php).*
+
 # A Web app sends data to and receives data from ARTIK Cloud
 
 Let's build a Web application using PHP with a little JavaScript. The app communicates to ARTIK Cloud.
