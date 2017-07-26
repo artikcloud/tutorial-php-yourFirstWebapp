@@ -1,15 +1,15 @@
-*Note: A newer PHP sample is available [here](https://github.com/artikcloud/sample-webapp-php).*
+*Note: A newer PHP sample (using ARTIK Cloud PHP SDK) is available [here](https://github.com/artikcloud/sample-webapp-php).*
 
 # A Web app sends data to and receives data from ARTIK Cloud
 
-Let's build a Web application using PHP with a little JavaScript. The app communicates to ARTIK Cloud.
+Let's build a Web application using PHP with a little JavaScript. The app communicates to ARTIK Cloud. 
 
 Introduction
 -------------
 
-The tutorial [Your first Web app](https://developer.artik.cloud/documentation/tutorials/your-first-application.html) at https://developer.artik.cloud/documentation describes what the system does and how it is implemented.
+The tutorial [A PHP Web app](https://developer.artik.cloud/documentation/tutorials/webapp-php-notusingsdk.html) at https://developer.artik.cloud/documentation describes what the system does and how it is implemented.
 
-Consult [Initial setup](https://developer.artik.cloud/documentation/tutorials/your-first-application.html#initial-setup) in the tutorial to set up the cloud and Web App.
+Consult [Initial setup](https://developer.artik.cloud/documentation/tutorials/webapp-php-notusingsdk.html#initial-setup) in the tutorial to set up the cloud and Web App.
 
 More about ARTIK Cloud
 ---------------
